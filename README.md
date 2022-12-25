@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Cunga0X and I'm from Slovenia.</h2>
+<img src="./images/github-social-space.png">
+<h2 align="center">Hi 👋! My name is Cunga0X and I'm from Slovenia.</h2>
 
 ###
 
