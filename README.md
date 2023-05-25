@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Cunga0X and I'm from Slovenia.</h2>
+<h2 align="center">Hi 👋! My name is Sergej Vrečer and I'm from Slovenia.</h2>
 
 ###
 
