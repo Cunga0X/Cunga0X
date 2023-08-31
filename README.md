@@ -69,7 +69,7 @@
 ###
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Cunga0X/Cunga0X/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Cunga0X/Cunga0X/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
